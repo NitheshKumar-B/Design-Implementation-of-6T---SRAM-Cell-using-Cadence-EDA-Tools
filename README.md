@@ -1,4 +1,4 @@
-# Ex No: 04 Design-Implementation-of-6T---SRAM-Cell-using-Cadence-EDA-Tools
+# Ex No: 04 Design-Implementation-of-6T--SRAM-Cell-using-Cadence-EDA-Tools
      
 
 ## Aim:
@@ -17,7 +17,7 @@ To design and implement a 6T SRAM (Static Random-Access Memory) cell using Caden
 ![IMG-20241115-WA0004](https://github.com/user-attachments/assets/86635ce5-4ffc-484d-aa49-7a2d5ad428bf)
 
 
-## S C H E M A T I C  S I M U L A T I O N 
+## Schematic Simulation: 
 
 PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION -Commands to get into Cadence
 
