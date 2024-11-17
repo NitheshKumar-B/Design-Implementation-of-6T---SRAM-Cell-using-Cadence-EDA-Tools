@@ -17,8 +17,6 @@ To design and implement a 6T SRAM (Static Random-Access Memory) cell using Caden
 ![IMG-20241115-WA0004](https://github.com/user-attachments/assets/86635ce5-4ffc-484d-aa49-7a2d5ad428bf)
 
 
-## Schematic Simulation: 
-
 ## SCHEMATIC SIMULATION:
 
 PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION
@@ -79,8 +77,6 @@ ii)	Create Schematic Cell view.
 
 
 
-
-
  
 iii)	Creating the Symbol for schematic Cell view
 
@@ -107,7 +103,7 @@ iii)	Creating the Symbol for schematic Cell view
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
 
-## Analog simulation by SPECTRE.
+## Analog simulation by SPECTRE:
 •	In test cell view window
 
 •	Launch – ADE L(Analog Design Environment)
@@ -126,7 +122,6 @@ iii)	Creating the Symbol for schematic Cell view
 
 •	Execute Simulation -- Net list and Run
 ![Screenshot 2024-11-11 102829](https://github.com/user-attachments/assets/6642f29e-b6ea-48d6-8dda-11a5f6d8a75b)
-
 
 
 
